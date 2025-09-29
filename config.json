@@ -1,0 +1,37 @@
+{
+  "profileApiBase": "https://api.nloveuser.ru/v1",
+  "bioRawUrl": "https://raw.githubusercontent.com/nloveuser/nloveuser/main/README.md",
+  "corsProxyBase": "",
+  "parse": true,
+  "sectionsNavBar": [
+    { "id": "home", "label": "Home" },
+    { "id": "projects", "label": "Projects" },
+    { "id": "team", "label": "Team" },
+    { "id": "donate", "label": "Donate" }
+  ],
+  "techStack": ["Python", "FastAPI", "PostgreSQL", "SQLite", "Docker"],
+  "supportMethods": [
+    { "name": "Tonkeeper", "icon": "💎", "code": "UQBJYNp7Di9cA1olxsV3LF-L0kczvIF9YJmfdKHZo6krjcAk" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "My API",
+      "description": "Сервис на FastAPI",
+      "tech": ["Python", "FastAPI"],
+      "github": "https://github.com/nloveuser/nloveuser"
+    }
+  ],
+  "friends": [
+    {
+      "name": "nloveuser",
+      "role": "Python Backend",
+      "image": "https://raw.githubusercontent.com/OWNER/REPO/BRANCH/assets/avatar.jpg",
+      "socials": {
+        "github": { "link": "https://github.com/nloveuser" },
+        "telegram": { "link": "https://t.me/nloveuser" }
+      },
+      "profile": { "username": "nloveuser" }
+    }
+  ]
+}
