@@ -2,6 +2,8 @@
   "profileApiBase": "https://api.nloveuser.ru/v1",
   "bioRawUrl": "https://raw.githubusercontent.com/nloveuser/nloveuser/main/README.md",
   "corsProxyBase": "",
+  "useCurl": false,
+  "curlProxyBase": "",
   "parse": true,
   "sectionsNavBar": [
     { "id": "home", "label": "Home" },
