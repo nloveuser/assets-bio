@@ -22,7 +22,12 @@
           "name": "GitHub",
           "icon": "github",
           "url": "https://github.com/xdesai"
-        }
+        },
+        {
+          "name": "Web Site",
+          "icon": "web",
+          "url": "https://xdesai.top"
+       }
       ]
     },
     {
@@ -80,7 +85,7 @@
   "donate": [
     {
       "name": "Tonkeeper",
-      "text": "UQB3yoD8GokBWKeuKF5sUmrkoOBIac4I7DgYisr1BYzSCdf3"
+      "url": "ton://transfer/UQB3yoD8GokBWKeuKF5sUmrkoOBIac4I7DgYisr1BYzSCdf3"
     }
   ],
   "footer": "© 2025 nloveuser. All rights reserved."
