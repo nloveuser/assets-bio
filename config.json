@@ -8,23 +8,31 @@
       "url": "https://github.com/Plovchikdeval/FreeBieRider"
     }
   ],
-  "crew": [
+    "crew": [
     {
       "name": "XDesai #legacy",
-      "description": "Thx for design idea",
-      "avatar": "https://cdn4.telesco.pe/file/EsExewuL8kIU9WQ46O4oOZLK4YjrqLXZRNW63ZeQnP2f9rAWD9cQ3zKCeEcOXdDOENqRxbGW6eMTOpWF655XGBRmI9hWkIK-SQvNpNuMNnqMdF3lHI06DcsTFXvhoc1dcCpzeLf2xw8PHLwc1nG5sU9obKe5be0DOQYxZvLYWTVNrs0yKBwtjE1nzAIvPcTYbq9NU6wB7AxPrl9idYIsR6L2e_gM-lNnRqub5v6dmlu4WZNPUBhkTfKaiHPI4h5VhhJ4TS1AcZOBUiOFDJwu_A3haHK5Ze-37jPDZ6OpY-lHVyrOTzXryARzTJJTG6lKw4unM-CWfrYMSRGMuCipeg.jpg",
+      "username": "xdesai",
+      "avatar": "",
+      "description": "Legacy friend and inspiration.",
       "socials": [
-        {
-          "name": "Telegram",
-          "icon": "telegram",
-          "url": "https://t.me/xdesai"
-        },
-        {
-          "name": "GitHub",
-          "icon": "github",
-          "url": "https://github.com/xdesai96"
-        }
-      ]
+        { "name": "Telegram", "icon": "telegram", "url": "https://t.me/xdesai" },
+        { "name": "GitHub", "icon": "github", "url": "https://github.com/xdesai" },
+        { "name": "Web Site", "icon": "web", "url": "https://xdesai.top" }
+      ],
+      "bio": {
+        "about": "Legacy friend and inspiration.",
+        "os": ["Fedora", "Ubuntu"],
+        "projects": [ { "name": "Personal Site", "url": "https://xdesai.top" } ],
+        "techStack": ["Python", "Linux"],
+        "githubInfo": { "accounts": [ { "username": "xdesai96", "label": "Main" } ] },
+        "thx": [ { "name": "n♡user #бeзyмие", "reason": "Support and ideas" } ],
+        "socials": [
+          { "name": "Telegram", "icon": "telegram", "url": "https://t.me/xdesai" },
+          { "name": "GitHub", "icon": "github", "url": "https://github.com/xdesai96" },
+          { "name": "Web Site", "icon": "web", "url": "https://xdesai.top" }
+        ],
+        "donate": [ ]
+      }
     }
   ],
   "techStack": ["Python", "FastAPI", "Django", "PostgreSQL", "SQLite", "Docker", "Linux", "Git", "Bash", "Termux"],
