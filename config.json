@@ -1,12 +1,7 @@
 {
   "title": "n♡user #бeзyмие",
   "about": "Hi, I'm nloveuser. I write backend in Python.\nI use Fedora as my main system.\nI love lightweight, reliable, and clear tools.\nI create utilities, APIs, and Telegram bots.\nI share useful things in open source.",
-  "os": ["Fedora", "Alpine", "Ubuntu", "Arch Linux", "Cachy Os", "Debian"],
-  "projects": [
-    {
-      "name": "FreeBieRider",
-      "url": "https://t.me/FreeBieRider"
-    }
+  "os": ["Fedora", "Alpine", "Ubuntu", "Arch Linux", "Cachy Os", "Debian"]
   ],
   "crew": [
     {
