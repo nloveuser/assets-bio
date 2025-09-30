@@ -62,7 +62,7 @@
   "donate": [
     {
       "name": "Tonkeeper",
-      "url": "ton://transfer/UQB3yoD8GokBWKeuKF5sUmrkoOBIac4I7DgYisr1BYzSCdf3"
+      "text": "UQB3yoD8GokBWKeuKF5sUmrkoOBIac4I7DgYisr1BYzSCdf3"
     }
   ],
   "footer": "© 2025 nloveuser. All rights reserved."
