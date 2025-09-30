@@ -1,39 +1,69 @@
 {
-  "profileApiBase": "https://api.nloveuser.ru/v1",
-  "bioRawUrl": "https://raw.githubusercontent.com/nloveuser/nloveuser/main/README.md",
-  "corsProxyBase": "",
-  "useCurl": false,
-  "curlProxyBase": "",
-  "parse": true,
-  "sectionsNavBar": [
-    { "id": "home", "label": "Home" },
-    { "id": "projects", "label": "Projects" },
-    { "id": "team", "label": "Team" },
-    { "id": "donate", "label": "Donate" }
-  ],
-  "techStack": ["Python", "FastAPI", "PostgreSQL", "SQLite", "Docker"],
-  "supportMethods": [
-    { "name": "Tonkeeper", "icon": "💎", "code": "UQBJYNp7Di9cA1olxsV3LF-L0kczvIF9YJmfdKHZo6krjcAk" }
-  ],
-  "projects": [
+  "title": "n♡user #бeзyмие",
+  "about": "Hi, I'm nloveuser. I write backend in Python.\nI use Fedora as my main system.\nI love lightweight, reliable, and clear tools.\nI create utilities, APIs, and Telegram bots.\nI share useful things in open source.",
+  "os": ["Fedora", "Alpine", "Ubuntu", "Arch Linux", "Cachy Os", "Debian"],
+  "projects": ["FreeBieRider"],
+  "crew": [
     {
-      "id": 1,
-      "title": "My API",
-      "description": "Сервис на FastAPI",
-      "tech": ["Python", "FastAPI"],
-      "github": "https://github.com/nloveuser/nloveuser"
+      "name": "XDesai #legacy",
+      "avatar": "https://cdn4.telesco.pe/file/EsExewuL8kIU9WQ46O4oOZLK4YjrqLXZRNW63ZeQnP2f9rAWD9cQ3zKCeEcOXdDOENqRxbGW6eMTOpWF655XGBRmI9hWkIK-SQvNpNuMNnqMdF3lHI06DcsTFXvhoc1dcCpzeLf2xw8PHLwc1nG5sU9obKe5be0DOQYxZvLYWTVNrs0yKBwtjE1nzAIvPcTYbq9NU6wB7AxPrl9idYIsR6L2e_gM-lNnRqub5v6dmlu4WZNPUBhkTfKaiHPI4h5VhhJ4TS1AcZOBUiOFDJwu_A3haHK5Ze-37jPDZ6OpY-lHVyrOTzXryARzTJJTG6lKw4unM-CWfrYMSRGMuCipeg.jpg"
+    },
+    {
+      "name": "n♡user #бeзyмие",
+      "avatar": "https://cdn5.telesco.pe/file/ArECI1e1i1SY3gA7jgbilIOeWF8-zb-w8NkCJagh6W4FsM8lD_kB2p5PEjOhdhAU5Qo26oVBCftE4CbVovZg7WWYGjig3US3Nwrj15fIFIJPETBTfvgZZw5UpvfOFYJSOWd_p0Hb3FBApjFbyANnTsXw0B3B81VFzVgtmz67Ft5h4mfiH9LFXJ3VJJgbM8aG7MmeCyu00z83RPwrtMZNwc7giZukJ0CelpglJVAWqJYw9eHlOu5nfDLmzstpzRWa1ltOdNG0ssH6JH-dKfxt-OYBkCn0mTdZK5aW7TjtMQQF8UVJysu-xdK1WqoiPf_Tel0ktlCgNm99ATsHr5n83A.jpg"
     }
   ],
-  "friends": [
-    {
-      "name": "nloveuser",
-      "role": "Python Backend",
-      "image": "https://raw.githubusercontent.com/OWNER/REPO/BRANCH/assets/avatar.jpg",
-      "socials": {
-        "github": { "link": "https://github.com/nloveuser" },
-        "telegram": { "link": "https://t.me/nloveuser" }
+  "techStack": ["Python", "FastAPI", "Django", "PostgreSQL", "SQLite", "Docker", "Linux", "Git", "Bash", "Termux"],
+  "githubInfo": {
+    "accounts": [
+      {
+        "username": "Plovchikdeval",
+        "label": "Main Account"
       },
-      "profile": { "username": "nloveuser" }
+      {
+        "username": "nloveuser",
+        "label": "Secondary Account"
+      }
+    ]
+  },
+  "thx": [
+    {
+      "name": "XDesai #legacy",
+      "reason": "I got the idea from xdesai.top"
     }
-  ]
+  ],
+  "socials": [
+    {
+      "name": "Telegram main",
+      "icon": "telegram",
+      "url": "https://t.me/nloveuser"
+    },
+    {
+      "name": "Telegram alt",
+      "icon": "telegram",
+      "url": "https://t.me/nloveuseralt"
+    },
+    {
+      "name": "GitHub main",
+      "icon": "github",
+      "url": "https://github.com/Plovchikdeval"
+    },
+    {
+      "name": "GitHub alt",
+      "icon": "github",
+      "url": "https://github.com/nloveuser"
+    },
+    {
+      "name": "Email",
+      "icon": "email",
+      "url": "mailto:nloveuser@gmail.com"
+    }
+  ],
+  "donate": [
+    {
+      "name": "Tonkeeper",
+      "url": "UQB3yoD8GokBWKeuKF5sUmrkoOBIac4I7DgYisr1BYzSCdf3"
+    }
+  ],
+  "footer": "© 2025 nloveuser. All rights reserved."
 }
