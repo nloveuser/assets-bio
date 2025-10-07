@@ -15,7 +15,6 @@
           { "name": "LegacyTL", "url": "https://github.com/xdesai96/legacytl" },
           { "name": "WebRepo", "url": "https://mods.xdesai.top/" }
         ],
-        "techStack": ["Python", "Linux"],
         "githubInfo": { "accounts": [ { "username": "xdesai96", "label": "Main" } ] },
         "socials": [
           { "name": "Telegram", "icon": "telegram", "url": "https://t.me/xdesai" },
