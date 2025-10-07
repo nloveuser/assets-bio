@@ -1,85 +1,51 @@
 {
   "title": "n♡user #бeзyмие",
   "about": "Hi, I'm nloveuser. I write backend in Python.\nI use Fedora as my main system.\nI love lightweight, reliable, and clear tools.\nI create utilities, APIs, and Telegram bots.\nI share useful things in open source.",
-  "os": ["Fedora", "Alpine", "Ubuntu", "Arch Linux", "Cachy Os", "Debian"],
-  "projects": [
-    {
-      "name": "FreeBieRider",
-      "url": "https://github.com/Plovchikdeval/FreeBieRider"
-    }
-  ],
-    "crew": [
+  "os": ["Fedora", "Alpine", "Ubuntu", "Arch Linux", "Debian"],
+  "crew": [
     {
       "name": "XDesai #legacy",
       "username": "xdesai",
       "avatar": "",
       "description": "Legacy friend and inspiration.",
-      "socials": [
-        { "name": "Telegram", "icon": "telegram", "url": "https://t.me/xdesai" },
-        { "name": "GitHub", "icon": "github", "url": "https://github.com/xdesai" },
-        { "name": "Web Site", "icon": "web", "url": "https://xdesai.top" }
-      ],
       "bio": {
-        "about": "Legacy friend and inspiration.",
-        "os": ["Fedora", "Ubuntu"],
-        "projects": [ { "name": "Personal Site", "url": "https://xdesai.top" } ],
+        "about": "Hi, I'm Desai — born on 09.09.2006 and currently living in Poland. Originally from Azerbaijan, I speak four languages: Russian, English, Polish, and Azerbaijani. I started programming at the age of 11 and have been passionate about it ever since. Beyond coding, I enjoy anime, hanging out, and exploring new ideas. As an ambivert, I balance between deep focus and social vibes.",
+        "projects": [
+          { "name": "Legacy", "url": "https://github.com/Crayz310/Legacy" },
+          { "name": "LegacyTL", "url": "https://github.com/xdesai96/legacytl" },
+          { "name": "WebRepo", "url": "https://mods.xdesai.top/" }
+        ],
         "techStack": ["Python", "Linux"],
         "githubInfo": { "accounts": [ { "username": "xdesai96", "label": "Main" } ] },
-        "thx": [ { "name": "n♡user #бeзyмие", "reason": "Support and ideas" } ],
         "socials": [
           { "name": "Telegram", "icon": "telegram", "url": "https://t.me/xdesai" },
           { "name": "GitHub", "icon": "github", "url": "https://github.com/xdesai96" },
           { "name": "Web Site", "icon": "web", "url": "https://xdesai.top" }
         ],
-        "donate": [ ]
+        "donate": [
+          { "name": "Tonkeeper", "text": "UQBJYNp7Di9cA1olxsV3LF-L0kczvIF9YJmfdKHZo6krjcAk" },
+          { "name": "PayPal", "url": "https://www.paypal.me/XDesaiVoid" },
+          { "name": "DonationAlerts", "url": "https://www.donationalerts.com/r/xdesai" }
+        ]
       }
     }
   ],
   "techStack": ["Python", "FastAPI", "Django", "PostgreSQL", "SQLite", "Docker", "Linux", "Git", "Bash", "Termux"],
   "githubInfo": {
     "accounts": [
-      {
-        "username": "Plovchikdeval",
-        "label": "Main Account"
-      },
-      {
-        "username": "nloveuser",
-        "label": "Secondary Account"
-      }
+      { "username": "Plovchikdeval", "label": "Main Account" },
+      { "username": "nloveuser", "label": "Secondary Account" }
     ]
   },
   "thx": [
-    {
-      "name": "XDesai #legacy",
-      "reason": "I got the idea from xdesai.top"
-    }
+    { "name": "XDesai #legacy", "reason": "I got the idea from xdesai.top" }
   ],
   "socials": [
-    {
-      "name": "Telegram main",
-      "icon": "telegram",
-      "url": "https://t.me/nloveuser"
-    },
-    {
-      "name": "Telegram alt",
-      "icon": "telegram",
-      "url": "https://t.me/nloveuseralt"
-    },
-    {
-      "name": "GitHub main",
-      "icon": "github",
-      "url": "https://github.com/Plovchikdeval"
-    },
-    {
-      "name": "GitHub alt",
-      "icon": "github",
-      "url": "https://github.com/nloveuser"
-    },
-    {
-      "name": "Email",
-      "icon": "email",
-      "url": "mailto:nloveuser@gmail.com"
-    }
+    { "name": "Telegram main", "icon": "telegram", "url": "https://t.me/nloveuser" },
+    { "name": "Telegram alt", "icon": "telegram", "url": "https://t.me/nloveuseralt" },
+    { "name": "GitHub main", "icon": "github", "url": "https://github.com/Plovchikdeval" },
+    { "name": "GitHub alt", "icon": "github", "url": "https://github.com/nloveuser" },
+    { "name": "Email", "icon": "email", "url": "mailto:nloveuser@gmail.com" }
   ],
   "donate": [
     {
