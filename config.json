@@ -4,7 +4,7 @@
   "os": ["Fedora", "Alpine", "Ubuntu", "Arch Linux", "Debian"],
   "crew": [
     {
-      "name": "XDesai #legacy",
+      "name": "",
       "username": "xdesai",
       "avatar": "",
       "description": "Legacy friend and inspiration.",
@@ -29,16 +29,13 @@
       }
     }
   ],
-  "techStack": ["Python", "FastAPI", "Django", "PostgreSQL", "SQLite", "Docker", "Linux", "Git", "Bash", "Termux"],
+  "techStack": ["Python", "FastAPI", "Django", "PostgreSQL", "SQLite", "Docker", "Git", "Bash", "Node.js", "JavaScript"],
   "githubInfo": {
     "accounts": [
       { "username": "Plovchikdeval", "label": "Main Account" },
       { "username": "nloveuser", "label": "Secondary Account" }
     ]
   },
-  "thx": [
-    { "name": "XDesai #legacy", "reason": "I got the idea from xdesai.top" }
-  ],
   "socials": [
     { "name": "Telegram main", "icon": "telegram", "url": "https://t.me/nloveuser" },
     { "name": "Telegram alt", "icon": "telegram", "url": "https://t.me/nloveuseralt" },
