@@ -1,5 +1,6 @@
 {
   "title": "n♡user #бeзyмие",
+  "snow": true,
   "about": "Hi, I'm nloveuser. I write backend in Python.\nI use Fedora as my main system.\nI love lightweight, reliable, and clear tools.\nI create utilities, APIs, and Telegram bots.\nI share useful things in open source.",
   "os": ["Fedora", "Alpine", "Ubuntu", "Arch Linux", "Debian"],
   "crew": [
@@ -61,6 +62,5 @@
       "url": "https://www.donationalerts.com/r/nloveusers"
     }
   ],
-  "footer": "© 2025 nloveuser. All rights reserved.",
-  "snow": true
+  "footer": "© 2025 nloveuser. All rights reserved."
 }
