@@ -1,0 +1,66 @@
+{
+  "title": "n♡user #бeзyмие",
+  "about": "Hi, I'm nloveuser. I write backend in Python.\nI use Fedora as my main system.\nI love lightweight, reliable, and clear tools.\nI create utilities, APIs, and Telegram bots.\nI share useful things in open source.",
+  "os": ["Fedora", "Alpine", "Ubuntu", "Arch Linux", "Debian"],
+  "crew": [
+    {
+      "name": "XDesai #Legacy",
+      "username": "xdesai",
+      "avatar": "",
+      "description": "Legacy friend and inspiration.",
+      "bio": {
+        "about": "Hi, I'm Desai — born on 09.09.2006 and currently living in Poland. Originally from Azerbaijan, I speak four languages: Russian, English, Polish, and Azerbaijani. I started programming at the age of 11 and have been passionate about it ever since. Beyond coding, I enjoy anime, hanging out, and exploring new ideas. As an ambivert, I balance between deep focus and social vibes.",
+        "projects": [
+          { "name": "Legacy", "url": "https://github.com/Crayz310/Legacy" },
+          { "name": "LegacyTL", "url": "https://github.com/xdesai96/legacytl" },
+          { "name": "WebRepo", "url": "https://mods.xdesai.top/" }
+        ],
+        "githubInfo": { "accounts": [ { "username": "xdesai96", "label": "Main" } ] },
+        "socials": [
+          { "name": "Telegram", "icon": "telegram", "url": "https://t.me/xdesai" },
+          { "name": "GitHub", "icon": "github", "url": "https://github.com/xdesai96" },
+          { "name": "Web Site", "icon": "web", "url": "https://xdesai.top" }
+        ],
+        "donate": [
+          { "name": "Tonkeeper", "text": "UQBJYNp7Di9cA1olxsV3LF-L0kczvIF9YJmfdKHZo6krjcAk" },
+          { "name": "PayPal", "url": "https://www.paypal.me/XDesaiVoid" },
+          { "name": "DonationAlerts", "url": "https://www.donationalerts.com/r/xdesai" }
+        ]
+      }
+    }
+  ],
+  "techStack": ["Python", "FastAPI", "Django", "PostgreSQL", "SQLite", "Docker", "Git", "Bash", "Node.js", "JavaScript"],
+  "githubInfo": {
+    "accounts": [
+      { "username": "Plovchikdeval", "label": "Main Account" },
+      { "username": "nloveuser", "label": "Secondary Account" }
+    ]
+  },
+  "socials": [
+    { "name": "Telegram main", "icon": "telegram", "url": "https://t.me/nloveuser" },
+    { "name": "Telegram alt", "icon": "telegram", "url": "https://t.me/nloveudev" },
+    { "name": "GitHub main", "icon": "github", "url": "https://github.com/Plovchikdeval" },
+    { "name": "GitHub alt", "icon": "github", "url": "https://github.com/nloveuser" },
+    { "name": "Email", "icon": "email", "url": "mailto:nloveuser@gmail.com" }
+  ],
+  "donate": [
+    {
+      "name": "Tonkeeper",
+      "text": "UQB3yoD8GokBWKeuKF5sUmrkoOBIac4I7DgYisr1BYzSCdf3"
+    },
+    {
+      "name": "YooMoney",
+      "text": "+77009926820"
+    },
+    {
+      "name": "DonatePay",
+      "url": "https://donatepay.ru/don/1427821"
+    },
+    {
+      "name": "DonationAlerts",
+      "url": "https://www.donationalerts.com/r/nloveusers"
+    }
+  ],
+  "footer": "© 2025 nloveuser. All rights reserved.",
+  "snow": true
+}
