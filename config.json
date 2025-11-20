@@ -36,8 +36,7 @@
     ]
   },
   "socials": [
-    { "name": "Telegram main", "icon": "telegram", "url": "https://t.me/nloveuser" },
-    { "name": "Telegram alt", "icon": "telegram", "url": "https://t.me/nloveudev" },
+    { "name": "Contact Me", "icon": "telegram", "url": "https://t.me/nloveuser?direct" },
     { "name": "GitHub main", "icon": "github", "url": "https://github.com/Plovchikdeval" },
     { "name": "GitHub alt", "icon": "github", "url": "https://github.com/nloveuser" },
     { "name": "Email", "icon": "email", "url": "mailto:nloveuser@gmail.com" }
