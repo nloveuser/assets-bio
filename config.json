@@ -1,6 +1,6 @@
 {
-  "title": "n♡user #бeзyмие",
-  "about": "Hi, I'm nloveuser. I write backend in Python.\nI use Fedora as my main system.\nI love lightweight, reliable, and clear tools.\nI create utilities, APIs, and Telegram bots.\nI share useful things in open source.",
+  "title": "ᥒᥣ᧐᥎ᥱrX [♡]",
+  "about": "Hi, I'm nloverx. I'm a Fullstack Developer. \nI build complete systems using Python for the backend and modern JavaScript/TypeScript for the frontend.I run Fedora and have a strong preference for lightweight, reliable, and clear tools. I develop everything from web applications and APIs to utilities and Telegram bots, sharing useful work in open source.",
   "crew": [
     {
       "name": "XDesai #Legacy",
@@ -26,6 +26,47 @@
           { "name": "DonationAlerts", "url": "https://www.donationalerts.com/r/xdesai" }
         ]
       }
+    },
+    {
+      "name": "XGlor $ #FOSS #KERNEL",
+      "username": "cyber_glor",
+      "avatar": "",
+      "description": "Python programmer",
+      "bio": {
+        "about": "No entry.",
+        "projects": [
+          { "name": "HETBot 3", "url": "https://t.me/het30bot" },
+        ],
+        "githubInfo": { "accounts": [ { "username": "ytrytio", "label": "Main" } ] },
+        "socials": [
+          { "name": "Telegram", "icon": "telegram", "url": "https://t.me/cyber_glor },
+          { "name": "GitHub", "icon": "github", "url": "https://github.com/ytrytio" }
+        ],
+        "donate": [
+          { "name": "Tonkeeper", "text": "UQAj4MbookkjLEdenwvnlQuTL9tZoyu-thp0qygAKkKGGG-0" },
+        { "name": "Card (MonoBank)", "text": "4441114435461262" }
+        ]
+      }
+    },
+    {
+      "name": "#KasPer",
+      "username": "pwwslll",
+      "avatar": "",
+      "description": "404",
+      "bio": {
+        "about": "Hi. My name is Kirill. I've been developing Python for about 3-4 years. My main experience is developing Telegram bots, but I'm also quick to learn other development tools.",
+        "projects": [
+          { "name": "TelegramSubChecker", "url": "https://github.com/KirillPlt/Telegram-Bot-Sub-Checker" }
+        ],
+        "githubInfo": { "accounts": [ { "username": "KirillPlt", "label": "Main" } ] },
+        "socials": [
+          { "name": "Telegram", "icon": "telegram", "url": "https://t.me/pwwslll" },
+          { "name": "GitHub", "icon": "github", "url": "https://github.com/KirillPlt" }
+        ],
+        "donate": [
+          { "name": "Donationpay", "url": "https://donatepay.ru/don/1440263" }
+        ]
+      }
     }
   ],
   "techStack": ["Python", "FastAPI", "Django", "PostgreSQL", "SQLite", "Docker", "Git", "Bash", "Node.js", "JavaScript"],
@@ -36,7 +77,7 @@
     ]
   },
   "socials": [
-    { "name": "Contact Me", "icon": "telegram", "url": "https://t.me/nloveuser?direct" },
+    { "name": "Contact Me", "icon": "telegram", "url": "https://t.me/nloverx" },
     { "name": "GitHub main", "icon": "github", "url": "https://github.com/Plovchikdeval" },
     { "name": "GitHub alt", "icon": "github", "url": "https://github.com/nloveuser" },
     { "name": "Email", "icon": "email", "url": "mailto:nloveuser@gmail.com" }
