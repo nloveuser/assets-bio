@@ -35,16 +35,16 @@
       "bio": {
         "about": "No entry.",
         "projects": [
-          { "name": "HETBot 3", "url": "https://t.me/het30bot" },
+          { "name": "HETBot 3", "url": "https://t.me/het30bot" }
         ],
         "githubInfo": { "accounts": [ { "username": "ytrytio", "label": "Main" } ] },
         "socials": [
-          { "name": "Telegram", "icon": "telegram", "url": "https://t.me/cyber_glor },
+          { "name": "Telegram", "icon": "telegram", "url": "https://t.me/cyber_glor" },
           { "name": "GitHub", "icon": "github", "url": "https://github.com/ytrytio" }
         ],
         "donate": [
           { "name": "Tonkeeper", "text": "UQAj4MbookkjLEdenwvnlQuTL9tZoyu-thp0qygAKkKGGG-0" },
-        { "name": "Card (MonoBank)", "text": "4441114435461262" }
+          { "name": "Card (MonoBank)", "text": "4441114435461262" }
         ]
       }
     },
@@ -100,5 +100,5 @@
       "url": "https://www.donationalerts.com/r/nloveusers"
     }
   ],
-  "footer": "© 2025 nloveuser. All rights reserved."
+  "footer": "© 2025-2028 nloveuser. All rights reserved."
 }
