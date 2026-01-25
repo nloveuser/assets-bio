@@ -1,5 +1,5 @@
 {
-  "title": "ᥒᥣ᧐᥎ᥱrX [♡]",
+  "title": "ᥒᥣ᧐᥎ᥱrX [♡] [#lover]",
   "about": "Hi, I'm nloverx. I'm a Fullstack Developer. \nI build complete systems using Python for the backend and modern JavaScript/TypeScript for the frontend.I run Fedora and have a strong preference for lightweight, reliable, and clear tools. I develop everything from web applications and APIs to utilities and Telegram bots, sharing useful work in open source.",
   "crew": [
     {
@@ -11,14 +11,13 @@
         "about": "Hi, I'm Desai — born on 09.09.2006 and currently living in Poland. Originally from Azerbaijan, I speak four languages: Russian, English, Polish, and Azerbaijani. I started programming at the age of 11 and have been passionate about it ever since. Beyond coding, I enjoy anime, hanging out, and exploring new ideas. As an ambivert, I balance between deep focus and social vibes.",
         "projects": [
           { "name": "Legacy", "url": "https://github.com/Crayz310/Legacy" },
-          { "name": "LegacyTL", "url": "https://github.com/xdesai96/legacytl" },
-          { "name": "WebRepo", "url": "https://mods.xdesai.top/" }
+          { "name": "LegacyTL", "url": "https://github.com/xdesai96/legacytl" }
         ],
         "githubInfo": { "accounts": [ { "username": "xdesai96", "label": "Main" } ] },
         "socials": [
           { "name": "Telegram", "icon": "telegram", "url": "https://t.me/xdesai" },
           { "name": "GitHub", "icon": "github", "url": "https://github.com/xdesai96" },
-          { "name": "Web Site", "icon": "web", "url": "https://xdesai.top" }
+          { "name": "Web Site", "icon": "web", "url": "https://bio.xdesai.dev" }
         ],
         "donate": [
           { "name": "Tonkeeper", "text": "UQBJYNp7Di9cA1olxsV3LF-L0kczvIF9YJmfdKHZo6krjcAk" },
