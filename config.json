@@ -17,7 +17,7 @@
         "socials": [
           { "name": "Telegram", "icon": "telegram", "url": "https://t.me/xdesai" },
           { "name": "GitHub", "icon": "github", "url": "https://github.com/xdesai96" },
-          { "name": "Web Site", "icon": "web", "url": "https://bio.xdesai.dev" }
+          { "name": "Web Site", "icon": "web", "url": "https://xdesai.dev" }
         ],
         "donate": [
           { "name": "Tonkeeper", "text": "UQBJYNp7Di9cA1olxsV3LF-L0kczvIF9YJmfdKHZo6krjcAk" },
