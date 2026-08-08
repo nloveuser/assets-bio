@@ -1,6 +1,14 @@
 {
   "title": "ᥒᥣ᧐᥎ᥱrX [♡] [#lover]",
+  "handle": "nloveuser",
+  "tagline": "fullstack · python + typescript · fedora · open source",
   "about": "Hi, I'm nloverx. I'm a Fullstack Developer. \nI build complete systems using Python for the backend and modern JavaScript/TypeScript for the frontend.I run Fedora and have a strong preference for lightweight, reliable, and clear tools. I develop everything from web applications and APIs to utilities and Telegram bots, sharing useful work in open source.",
+  "location": {
+    "city": "Алматы",
+    "timezone": "Asia/Almaty",
+    "latitude": 43.2567,
+    "longitude": 76.9286
+  },
   "crew": [
     {
       "name": "XDesai #Legacy",

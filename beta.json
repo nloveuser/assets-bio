@@ -1,8 +1,16 @@
 {
   "title": "n♡user #бeзyмие",
+  "handle": "nloveuser",
+  "tagline": "backend · python · fedora · open source",
   "snow": true,
   "about": "Hi, I'm nloveuser. I write backend in Python.\nI use Fedora as my main system.\nI love lightweight, reliable, and clear tools.\nI create utilities, APIs, and Telegram bots.\nI share useful things in open source.",
   "os": ["Fedora", "Alpine", "Ubuntu", "Arch Linux", "Debian"],
+  "location": {
+    "city": "Алматы",
+    "timezone": "Asia/Almaty",
+    "latitude": 43.2567,
+    "longitude": 76.9286
+  },
   "crew": [
     {
       "name": "XDesai #Legacy",
