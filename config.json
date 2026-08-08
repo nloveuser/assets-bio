@@ -1,8 +1,8 @@
 {
-  "title": "ᥒᥣ᧐᥎ᥱrX [♡] [#lover]",
+  "title": "nloverX [#only_code]",
   "handle": "nloveuser",
-  "tagline": "fullstack · python + typescript · fedora · open source",
-  "about": "Hi, I'm nloverx. I'm a Fullstack Developer. \nI build complete systems using Python for the backend and modern JavaScript/TypeScript for the frontend.I run Fedora and have a strong preference for lightweight, reliable, and clear tools. I develop everything from web applications and APIs to utilities and Telegram bots, sharing useful work in open source.",
+  "tagline": "fullstack · python + typescript · linux · open source",
+  "about": "Hi, I'm nloverx — Fullstack Developer building software, APIs, infrastructure and open-source projects.",
   "location": {
     "city": "Алматы",
     "timezone": "Asia/Almaty",
@@ -18,19 +18,53 @@
       "bio": {
         "about": "Hi, I'm Desai — born on 09.09.2006 and currently living in Poland. Originally from Azerbaijan, I speak four languages: Russian, English, Polish, and Azerbaijani. I started programming at the age of 11 and have been passionate about it ever since. Beyond coding, I enjoy anime, hanging out, and exploring new ideas. As an ambivert, I balance between deep focus and social vibes.",
         "projects": [
-          { "name": "Legacy", "url": "https://github.com/Crayz310/Legacy" },
-          { "name": "LegacyTL", "url": "https://github.com/xdesai96/legacytl" }
+          {
+            "name": "Legacy",
+            "url": "https://github.com/Crayz310/Legacy"
+          },
+          {
+            "name": "LegacyTL",
+            "url": "https://github.com/xdesai96/legacytl"
+          }
         ],
-        "githubInfo": { "accounts": [ { "username": "xdesai96", "label": "Main" } ] },
+        "githubInfo": {
+          "accounts": [
+            {
+              "username": "xdesai96",
+              "label": "Main"
+            }
+          ]
+        },
         "socials": [
-          { "name": "Telegram", "icon": "telegram", "url": "https://t.me/xdesai" },
-          { "name": "GitHub", "icon": "github", "url": "https://github.com/xdesai96" },
-          { "name": "Web Site", "icon": "web", "url": "https://xdesai.dev" }
+          {
+            "name": "Telegram",
+            "icon": "telegram",
+            "url": "https://t.me/xdesai"
+          },
+          {
+            "name": "GitHub",
+            "icon": "github",
+            "url": "https://github.com/xdesai96"
+          },
+          {
+            "name": "Web Site",
+            "icon": "web",
+            "url": "https://xdesai.dev"
+          }
         ],
         "donate": [
-          { "name": "Tonkeeper", "text": "UQBJYNp7Di9cA1olxsV3LF-L0kczvIF9YJmfdKHZo6krjcAk" },
-          { "name": "PayPal", "url": "https://www.paypal.me/XDesaiVoid" },
-          { "name": "DonationAlerts", "url": "https://www.donationalerts.com/r/xdesai" }
+          {
+            "name": "Tonkeeper",
+            "text": "UQBJYNp7Di9cA1olxsV3LF-L0kczvIF9YJmfdKHZo6krjcAk"
+          },
+          {
+            "name": "PayPal",
+            "url": "https://www.paypal.me/XDesaiVoid"
+          },
+          {
+            "name": "DonationAlerts",
+            "url": "https://www.donationalerts.com/r/xdesai"
+          }
         ]
       }
     },
@@ -42,16 +76,40 @@
       "bio": {
         "about": "No entry.",
         "projects": [
-          { "name": "HETBot 3", "url": "https://t.me/het30bot" }
+          {
+            "name": "HETBot 3",
+            "url": "https://t.me/het30bot"
+          }
         ],
-        "githubInfo": { "accounts": [ { "username": "ytrytio", "label": "Main" } ] },
+        "githubInfo": {
+          "accounts": [
+            {
+              "username": "ytrytio",
+              "label": "Main"
+            }
+          ]
+        },
         "socials": [
-          { "name": "Telegram", "icon": "telegram", "url": "https://t.me/cyber_glor" },
-          { "name": "GitHub", "icon": "github", "url": "https://github.com/ytrytio" }
+          {
+            "name": "Telegram",
+            "icon": "telegram",
+            "url": "https://t.me/cyber_glor"
+          },
+          {
+            "name": "GitHub",
+            "icon": "github",
+            "url": "https://github.com/ytrytio"
+          }
         ],
         "donate": [
-          { "name": "Tonkeeper", "text": "UQAj4MbookkjLEdenwvnlQuTL9tZoyu-thp0qygAKkKGGG-0" },
-          { "name": "Card (MonoBank)", "text": "4441114435461262" }
+          {
+            "name": "Tonkeeper",
+            "text": "UQAj4MbookkjLEdenwvnlQuTL9tZoyu-thp0qygAKkKGGG-0"
+          },
+          {
+            "name": "Card (MonoBank)",
+            "text": "4441114435461262"
+          }
         ]
       }
     },
@@ -63,31 +121,74 @@
       "bio": {
         "about": "Hi. My name is Kirill. I've been developing Python for about 3-4 years. My main experience is developing Telegram bots, but I'm also quick to learn other development tools.",
         "projects": [
-          { "name": "TelegramSubChecker", "url": "https://github.com/KirillPlt/Telegram-Bot-Sub-Checker" }
+          {
+            "name": "TelegramSubChecker",
+            "url": "https://github.com/KirillPlt/Telegram-Bot-Sub-Checker"
+          }
         ],
-        "githubInfo": { "accounts": [ { "username": "KirillPlt", "label": "Main" } ] },
+        "githubInfo": {
+          "accounts": [
+            {
+              "username": "KirillPlt",
+              "label": "Main"
+            }
+          ]
+        },
         "socials": [
-          { "name": "Telegram", "icon": "telegram", "url": "https://t.me/pwwslll" },
-          { "name": "GitHub", "icon": "github", "url": "https://github.com/KirillPlt" }
+          {
+            "name": "Telegram",
+            "icon": "telegram",
+            "url": "https://t.me/pwwslll"
+          },
+          {
+            "name": "GitHub",
+            "icon": "github",
+            "url": "https://github.com/KirillPlt"
+          }
         ],
         "donate": [
-          { "name": "Donationpay", "url": "https://donatepay.ru/don/1440263" }
+          {
+            "name": "Donationpay",
+            "url": "https://donatepay.ru/don/1440263"
+          }
         ]
       }
     }
   ],
-  "techStack": ["Python", "FastAPI", "Django", "PostgreSQL", "SQLite", "Docker", "Git", "Bash", "Node.js", "JavaScript"],
+  "techStack": ["Python", "TypeScript", "JavaScript", "Node.js", "FastAPI", "Django", "Flask", "Next.js", "React", "REST API", "Telegram Bots", "PostgreSQL", "SQLite", "Redis", "Docker", "Docker Compose", "Git", "GitHub Actions", "Bash", "Linux", "Arch Linux", "CachyOS", "Ubuntu", "Debian", "Fedora", "Armbian", "Orange Pi", "Nginx", "Caddy", "Cloudflare", "TLS/SSL", "Certbot", "acme.sh", "DNS", "NetworkManager", "systemd", "WireGuard", "Xray", "VLESS", "REALITY", "Tailscale", "Docker Networking", "iptables", "IPv4/IPv6", "TCP/IP", "SSH", "CDN", "Webhooks", "OAuth", "JSON", "YAML", "pnpm", "npm", "API Development", "Server Administration", "Self-hosting", "Open Source"],
   "githubInfo": {
     "accounts": [
-      { "username": "Plovchikdeval", "label": "Main Account" },
-      { "username": "nloveuser", "label": "Secondary Account" }
+      {
+        "username": "Plovchikdeval",
+        "label": "Main Account"
+      },
+      {
+        "username": "nloveuser",
+        "label": "Secondary Account"
+      }
     ]
   },
   "socials": [
-    { "name": "Contact Me", "icon": "telegram", "url": "https://t.me/nloverx" },
-    { "name": "GitHub main", "icon": "github", "url": "https://github.com/Plovchikdeval" },
-    { "name": "GitHub alt", "icon": "github", "url": "https://github.com/nloveuser" },
-    { "name": "Email", "icon": "email", "url": "mailto:nloveuser@gmail.com" }
+    {
+      "name": "Contact Me",
+      "icon": "telegram",
+      "url": "https://t.me/nloverx"
+    },
+    {
+      "name": "GitHub main",
+      "icon": "github",
+      "url": "https://github.com/Plovchikdeval"
+    },
+    {
+      "name": "GitHub alt",
+      "icon": "github",
+      "url": "https://github.com/nloveuser"
+    },
+    {
+      "name": "Email",
+      "icon": "email",
+      "url": "mailto:nloverx@proton.me"
+    }
   ],
   "donate": [
     {
