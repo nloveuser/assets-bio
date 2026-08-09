@@ -155,7 +155,75 @@
       }
     }
   ],
-  "techStack": ["Python", "TypeScript", "JavaScript", "Node.js", "FastAPI", "Django", "Flask", "Next.js", "React", "REST API", "Telegram Bots", "PostgreSQL", "SQLite", "Redis", "Docker", "Docker Compose", "Git", "GitHub Actions", "Bash", "Linux", "Arch Linux", "CachyOS", "Ubuntu", "Debian", "Fedora", "Armbian", "Orange Pi", "Nginx", "Caddy", "Cloudflare", "TLS/SSL", "Certbot", "acme.sh", "DNS", "NetworkManager", "systemd", "WireGuard", "Xray", "VLESS", "REALITY", "Tailscale", "Docker Networking", "iptables", "IPv4/IPv6", "TCP/IP", "SSH", "CDN", "Webhooks", "OAuth", "JSON", "YAML", "pnpm", "npm", "API Development", "Server Administration", "Self-hosting", "Open Source"],
+  "techStack": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "FastAPI",
+    "Django",
+    "Flask",
+    "Next.js",
+    "React",
+    "PostgreSQL",
+    "SQLite",
+    "Redis"
+  ],
+  "os": [
+    "Linux",
+    "Arch Linux",
+    "CachyOS",
+    "Ubuntu",
+    "Debian",
+    "Fedora",
+    "Armbian"
+  ],
+  "infra": [
+    "Docker",
+    "Docker Compose",
+    "Nginx",
+    "Caddy",
+    "Cloudflare",
+    "systemd",
+    "GitHub Actions",
+    "CDN",
+    "Orange Pi"
+  ],
+  "network": [
+    "WireGuard",
+    "Xray",
+    "VLESS",
+    "REALITY",
+    "Tailscale",
+    "Docker Networking",
+    "iptables",
+    "IPv4/IPv6",
+    "TCP/IP",
+    "DNS",
+    "TLS/SSL",
+    "Certbot",
+    "acme.sh",
+    "NetworkManager",
+    "SSH"
+  ],
+  "tools": [
+    "Git",
+    "Bash",
+    "pnpm",
+    "npm",
+    "JSON",
+    "YAML"
+  ],
+  "skills": [
+    "REST API",
+    "Telegram Bots",
+    "API Development",
+    "Server Administration",
+    "Self-hosting",
+    "Open Source",
+    "Webhooks",
+    "OAuth"
+  ],
   "githubInfo": {
     "accounts": [
       {
