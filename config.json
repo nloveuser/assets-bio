@@ -193,7 +193,6 @@
     "Redis"
   ],
   "os": [
-    "Linux",
     "Arch Linux",
     "CachyOS",
     "Ubuntu",
@@ -225,7 +224,6 @@
     "DNS",
     "TLS/SSL",
     "Certbot",
-    "acme.sh",
     "NetworkManager",
     "SSH"
   ],
