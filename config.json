@@ -4,7 +4,7 @@
   "tagline": "fullstack · python + typescript · linux · open source",
   "about": "Hi, I'm nloverx — Fullstack Developer building software, APIs, infrastructure and open-source projects.",
   "location": {
-    "city": "Алматы",
+    "city": "Almaty",
     "timezone": "Asia/Almaty",
     "latitude": 43.2567,
     "longitude": 76.9286
@@ -34,12 +34,12 @@
   ],
   "crew": [
     {
-      "name": "XDesai #Legacy",
+      "name": "XDesai",
       "username": "xdesai",
       "avatar": "",
       "description": "Legacy friend and inspiration.",
       "bio": {
-        "about": "Hi, I'm Desai — born on 09.09.2006 and currently living in Poland. Originally from Azerbaijan, I speak four languages: Russian, English, Polish, and Azerbaijani. I started programming at the age of 11 and have been passionate about it ever since. Beyond coding, I enjoy anime, hanging out, and exploring new ideas. As an ambivert, I balance between deep focus and social vibes.",
+        "about": "Just a single developer crafting open-source projects, experimenting with new tech stacks, and shipping things I actually love to use.",
         "projects": [
           {
             "name": "Legacy",
@@ -62,17 +62,17 @@
           {
             "name": "Telegram",
             "icon": "telegram",
-            "url": "https://t.me/xdesai"
+            "url": "https://telegram.me/xdesai"
           },
           {
-            "name": "GitHub",
-            "icon": "github",
-            "url": "https://github.com/xdesai96"
+            "name": "Codeberg",
+            "icon": "codeberg",
+            "url": "https://codeberg.org/xdesai"
           },
           {
             "name": "Web Site",
             "icon": "web",
-            "url": "https://xdesai.dev"
+            "url": "https://xdesai.is-a.dev"
           }
         ],
         "donate": [
